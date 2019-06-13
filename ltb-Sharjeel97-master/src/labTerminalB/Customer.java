@@ -28,7 +28,8 @@ public class Customer {
 		
 		/**
 		 * TODO 3		10 Marks
-		 * Provide suitable specification for statement method 
+		 * @param: Nothing
+		 * @return: Result which contain Name of customer,Movie title,Movie price,Total Amount owned and Frequent renter points 
 		 */
 		public String statement() {
 		double totalAmount = 0;
